@@ -9,6 +9,8 @@ Drawly is a powerful, web-based drawing tool designed to bring your ideas to lif
 - 📋 **Export**: Save your drawings.
 - 🌐 **Web-Based**: Access Drawly from any device with a browser.
 
+---
+
 ## Technologies Used  
 - **React JS**: For building a dynamic and responsive user interface.  
 - **Excalidraw**: Integrated as a core dependency for powerful drawing and diagramming features.
