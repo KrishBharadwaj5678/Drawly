@@ -55,19 +55,19 @@
 git clone https://github.com/KrishBharadwaj5678/Drawly.git
 ```
 
-2️⃣ プロジェクトディレクトリへ移動
+### 2️⃣ プロジェクトディレクトリへ移動
 
 ```bash
 cd Drawly
 ```
 
-3️⃣ 依存関係をインストール
+### 3️⃣ 依存関係をインストール
 
 ```bash
 npm install
 ```
 
-4️⃣ 開発サーバーを起動
+### 4️⃣ 開発サーバーを起動
 
 ```bash
 npm run dev
